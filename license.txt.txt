@@ -1,0 +1,28 @@
+END USER LICENSE AGREEMENT (EULA)
+
+IMPORTANT: PLEASE READ THIS LICENSE CAREFULLY BEFORE USING THIS SOFTWARE.
+
+This End-User License Agreement ("Agreement") is a legal agreement between you (either an individual or a single entity) and Muskan Patel for the software product "LaptopDiagnostic".
+
+By installing or using this software, you agree to be bound by the terms of this Agreement.
+
+1. GRANT OF LICENSE:
+   This software is licensed, not sold. You may install and use one copy of the software on a single computer.
+
+2. RESTRICTIONS:
+   You may not:
+   - Modify, reverse engineer, or decompile the software.
+   - Distribute, rent, lease, or lend the software to others.
+
+3. COPYRIGHT:
+   The software is owned by Muskan Patel and is protected by copyright laws and international treaties.
+
+4. NO WARRANTIES:
+   This software is provided "as is" without warranties of any kind, either express or implied.
+
+5. LIMITATION OF LIABILITY:
+   In no event shall the author be liable for any damages arising from the use or inability to use the software.
+
+If you do not agree to the terms of this agreement, do not install or use the software.
+
+(c) 2025 Muskan Patel. All rights reserved.
