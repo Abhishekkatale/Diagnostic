@@ -1,7 +1,7 @@
 import streamlit as st
 import pandas as pd
 from diagnostic_config import tools
-from utils import run_tool, generate_html_report
+from utils import run_tool
 
 def main():
     st.title("Diagnostic App")
