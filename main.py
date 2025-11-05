@@ -6,6 +6,12 @@ import webbrowser
 from diagnostic_config import tools
 from utils import generate_html_report, run_tool  # Ensure both functions are defined in utils.py
 
+
+import streamlit as st
+
+st.title("Diagnostic App")
+st.write("Welcome to the Diagnostic Tool!")
+
 def is_admin():
     """Check if script is running with admin rights."""
     try:
